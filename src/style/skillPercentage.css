@@ -1,0 +1,26 @@
+.wrapper {
+    border: 3px solid rgb(44, 44, 158);
+  }
+  
+  .container {
+    background-color: pink;
+  }
+  
+  .barCompletedFrontEnd {
+    background-color: rgb(3, 192, 255);
+    width: 80%;
+  }
+  .barCompletedBackEnd {
+    background-color: rgb(3, 192, 255);
+    width: 30%;
+  }
+  .barCompletedTools {
+    background-color: rgb(3, 192, 255);
+    width: 50%;
+  }
+  
+  .label {
+    font-size: 20px;
+    padding: 20px;
+    color: rgba(255, 0, 64, 0.869);
+  }
