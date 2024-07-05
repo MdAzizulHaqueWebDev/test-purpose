@@ -17,10 +17,10 @@ export default function Home() {
 				<HeroSection />
 			</section>
 			<AboutMe />
-			{/* <Skills /> */}
-			{/* <Education /> */}
-			{/* <Projects /> */}
-			{/* <Contact /> */}
+			<Skills />
+			<Education />
+			<Projects />
+			<Contact />
 			{/* <Footer /> */}
 		</main>
 	);
