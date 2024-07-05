@@ -34,7 +34,7 @@ const Skills = () => {
 				<span class="font-bold underline">Sk</span>ills
 			</h1>
 
-			<div class="grid grid-cols-8 gap-2 p-4 border-dashed border">
+			<div class="grid grid-cols-8 gap-2 p-4">
 				<section class="col-span-full lg:col-span-4 border-e-2  p-4">
 					<h1 class="text-3xl font-semibold ">
 						<span class="font-bold underline">Fr</span>ont-end
@@ -100,7 +100,7 @@ const Skills = () => {
 					</div>
 				</section>
 
-				<section class="col-span-full lg:col-span-3 border-t-2 p-4">
+				{/* <section class="col-span-full lg:col-span-3 border-t-2 p-4">
 					<h1 class="text-3xl font-semibold">
 						<span class="font-bold underline">St</span>ats
 					</h1>
@@ -147,8 +147,8 @@ const Skills = () => {
 							</div>
 						</div>
 					</div>
-				</section>
-				<section class="col-span-full lg:col-span-5 border-s-4 p-4">
+				</section> */}
+				<section class="col-span-full border-t-2 justify-center p-4">
 					<h1 class="text-3xl font-semibold">
 						<span class="font-bold underline">To</span>ols
 					</h1>
